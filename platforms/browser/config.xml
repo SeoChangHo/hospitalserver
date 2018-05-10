@@ -3,7 +3,10 @@
     <feature name="Camera">
         <param name="browser-package" value="Camera" />
     </feature>
-    <name>server</name>
+    <feature name="Device">
+        <param name="browser-package" value="Device" />
+    </feature>
+    <name>hospitalserver</name>
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
